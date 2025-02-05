@@ -1,4 +1,4 @@
-Hi, I'm Fajar 👋
+Hi, I'm Fajar Binus 👋
 ---
 **📌About** <br>
 Hi, I'm Muhamad Fajar, also known as Fajarnadril. I specialize in XR development, visual design, research, and teaching. I've created various educational apps for institutions and state-owned enterprises, highlighting my skills in XR and visual design.
