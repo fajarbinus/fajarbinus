@@ -59,7 +59,7 @@ hi@fajar.io
 " alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
+        <img src="[https://www.shevia.id/assets/img/product/shevia-ar/1.png](https://github.com/fajarbinus/fajarbinus/blob/main/pstir.gif)" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
