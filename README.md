@@ -55,7 +55,8 @@ hi@fajar.io
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
+        <img src="![pstir](https://github.com/user-attachments/assets/5a253104-5fd8-4a31-b16f-313669bc7dd5)
+" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
